@@ -1,6 +1,6 @@
 // src/App.tsx
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { CalendarView } from './components/Calendar/CalendarView';
 import { CalendarEvent } from './components/Calendar/CalendarView.types';
 
